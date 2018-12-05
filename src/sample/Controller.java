@@ -27,6 +27,8 @@ public class Controller {
         Square s = new Square(50,Color.WHITE,200,100);
         drawSquare(s);
 
+        System.out.println("bvb");
+
     }
     /**
      * Draws a single square on the background
